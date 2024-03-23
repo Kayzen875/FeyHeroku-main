@@ -1,0 +1,255 @@
+{
+	"frames": {
+		"Mapache1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 19,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 41
+			}
+		},
+		"Mapache2.png": {
+			"frame": {
+				"x": 22,
+				"y": 1,
+				"w": 19,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 41
+			}
+		},
+		"Mapache3.png": {
+			"frame": {
+				"x": 43,
+				"y": 1,
+				"w": 19,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 41
+			}
+		},
+		"MapacheA1.png": {
+			"frame": {
+				"x": 64,
+				"y": 1,
+				"w": 17,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 31
+			}
+		},
+		"MapacheA2.png": {
+			"frame": {
+				"x": 83,
+				"y": 1,
+				"w": 17,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 31
+			}
+		},
+		"MapacheA3.png": {
+			"frame": {
+				"x": 64,
+				"y": 34,
+				"w": 17,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 17,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 17,
+				"h": 31
+			}
+		},
+		"MapacheD1.png": {
+			"frame": {
+				"x": 1,
+				"y": 67,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		},
+		"MapacheD2.png": {
+			"frame": {
+				"x": 42,
+				"y": 67,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		},
+		"MapacheD3.png": {
+			"frame": {
+				"x": 102,
+				"y": 1,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		},
+		"MapacheI1.png": {
+			"frame": {
+				"x": 102,
+				"y": 32,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		},
+		"MapacheI2.png": {
+			"frame": {
+				"x": 83,
+				"y": 63,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		},
+		"MapacheI3.png": {
+			"frame": {
+				"x": 83,
+				"y": 94,
+				"w": 39,
+				"h": 29
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 29
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 29
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 142,
+			"h": 124
+		},
+		"scale": "1"
+	}
+}

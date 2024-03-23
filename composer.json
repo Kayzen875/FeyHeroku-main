@@ -1,0 +1,15 @@
+{
+	"authors": [
+			{
+				"name": "LaLegion05",
+				"email": "lalegion05@gmail.com",
+				"role": "Developer"
+			}
+		], 
+	"require": {
+		"php": ">=7.2.0"
+	},
+	"require-dev": {
+		"heroku/heroku-buildpack-php": "*"
+	}
+}

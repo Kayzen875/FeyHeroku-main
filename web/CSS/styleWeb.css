@@ -1,0 +1,49 @@
+body {
+  	background-image: url("../assets/images/fondousuario.png");
+}
+
+button{
+	position: absolute;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin-top: 50px;
+}
+
+#boton{
+	position: absolute;
+	left: 47%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin-top: 50px;
+}
+#boton2{
+	position: absolute;
+	left: 52.5%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin-top: 50px;
+}
+
+
+.grid{
+	display: grid;
+	grid-template-areas: auto;
+ 	grid-gap: 25px;
+ 	margin-left: 45%;
+ 	min-width: 300px;
+ }
+
+.center{
+	text-align: center;
+}
+
+header{
+	width: 500px;
+	margin-left: 34.5%;
+	background-color: white;
+}
+
+h2{
+	padding: 4px;
+}
